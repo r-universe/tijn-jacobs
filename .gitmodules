@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "FusionForests"]
+	path = FusionForests
+	url = https://github.com/tijn-jacobs/fusionforests
 [submodule "ShrinkageTrees"]
 	path = ShrinkageTrees
 	url = https://github.com/tijn-jacobs/shrinkagetrees
